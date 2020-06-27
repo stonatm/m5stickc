@@ -15,6 +15,7 @@ In free trial account you have limit of 50 requests per day. On device when you 
  - click **Send this request**
 
 ## Code
+Uiflow code: [accuweat.m5f](accuweat.m5f)
 
 ![accuweather.jpg](accuweather.jpg)
 
