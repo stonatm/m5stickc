@@ -21,7 +21,7 @@ Uiflow code: [accuweat.m5f](accuweat.m5f)
 
 ## Additional resources
 In UiFlow you must load custom block [accuweather.m5b](https://github.com/stonatm/UiFlow-custom-blocks/blob/master/accuweather/accuweather.m5b)
-You must transfer all jpeg files from [/res](**/res**) folder used by code into **/res** folder in your m5stickc device. You can use Resource Manager from UiFlow Web IDE (by this tool you place files directly in correct place in flash).
+You must transfer all jpeg files from **[/res](./res)** folder used by code into **/res** folder in your m5stickc device. You can use Resource Manager from UiFlow Web IDE (by this tool you place files directly in correct place in flash).
 
 ## overview
 ![view2.png](view2.png)![view1.png](view1.png)
