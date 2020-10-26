@@ -1,6 +1,7 @@
 # Battery
 
 Simple program thats show current battery voltage and current power consumption.
+Tested on UiFlow 1.4.5 firmware.
 
 ## code
 
